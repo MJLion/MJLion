@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJLion
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development and Web Applications Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on websites and web apps
 - 📫 How to reach me ...
 
 <!---
